@@ -1,0 +1,1 @@
+export const pageUrl = 'http://newsapi.org/v2/top-headlines?country=nl&apiKey=274952b87ce84eb7956509f231304839&pageSize=5&page='
